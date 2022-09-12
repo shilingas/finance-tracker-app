@@ -1,0 +1,17 @@
+C:\Users\37065\Desktop\finance-tracker-app\bin\Debug\net6.0-windows\FinanceTracker.exe
+C:\Users\37065\Desktop\finance-tracker-app\bin\Debug\net6.0-windows\FinanceTracker.deps.json
+C:\Users\37065\Desktop\finance-tracker-app\bin\Debug\net6.0-windows\FinanceTracker.runtimeconfig.json
+C:\Users\37065\Desktop\finance-tracker-app\bin\Debug\net6.0-windows\FinanceTracker.dll
+C:\Users\37065\Desktop\finance-tracker-app\bin\Debug\net6.0-windows\FinanceTracker.pdb
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\FinanceTracker.csproj.AssemblyReference.cache
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\FinanceTracker.Form1.resources
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\FinanceTracker.csproj.GenerateResource.cache
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\FinanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\FinanceTracker.AssemblyInfoInputs.cache
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\FinanceTracker.AssemblyInfo.cs
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\FinanceTracker.csproj.CoreCompileInputs.cache
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\FinanceTracker.dll
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\refint\FinanceTracker.dll
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\FinanceTracker.pdb
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\FinanceTracker.genruntimeconfig.cache
+C:\Users\37065\Desktop\finance-tracker-app\obj\Debug\net6.0-windows\ref\FinanceTracker.dll
