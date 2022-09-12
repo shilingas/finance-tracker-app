@@ -4,7 +4,7 @@ namespace FinanceTracker
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //jjhghghgg
         }
 
         private void label1_Click(object sender, EventArgs e)
